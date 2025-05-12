@@ -5,10 +5,9 @@ A EVGreen surge como uma solução tecnológica integrada para o ecossistema de 
 ## Team
 | Name | N.mec | Role |
 | :---: | :----: | :---: |
-| Andre Pedro Ribeiro | 112974 | WIP |
-| Christian | WIP | WIP |
-| Diogo Manuel Oliveira Guedes | 114256 | WIP |
-| Violeta Batista Ramos | 113170 | WIP |
+| Andre Pedro Ribeiro | 112974 | Team Coordinator, QA Engineer |
+| Diogo Manuel Oliveira Guedes | 114256 | Team Coordinator, Product Owner |
+| Violeta Batista Ramos | 113170 | Team Coordinator, DevOps Master |
 
 
 ## Notas
