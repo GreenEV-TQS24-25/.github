@@ -12,3 +12,7 @@ A EVGreen surge como uma solução tecnológica integrada para o ecossistema de 
 
 ## Notas
 - [Documento partilhado](https://docs.google.com/document/d/1syF7oGz288BDKHqjEilzAA3LXAZJtcAxx1M47uJyTm8/edit?tab=t.0#heading=h.pcls7cq49hem)
+
+## Alteracoes apos a apresentacao
+- lighthouse
+- cucumber workflow
